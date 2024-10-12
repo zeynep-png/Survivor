@@ -100,23 +100,6 @@ You can test the API using:
 - **Swagger**: Available at `https://localhost:5001/swagger`
 - **Postman**: Import the API endpoints and test various CRUD operations.
 
-### Example Competitor JSON
-
-json
-{
-  "fullName": "John Doe",
-  "age": 30,
-  "categoryId": 1
-}
-
-
-### Example Category JSON
-
-json
-{
-  "name": "Team A"
-}
-
 
 ## Database Migrations
 
